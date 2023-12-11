@@ -32,8 +32,18 @@
 <a href="https://discord.com/" target="blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="30" height="30"/> </a>
 <a href="https://chat.openai.com/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="30" height="30"/> </a>
- 
-</p>
+ </p>
+
+# 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetqunay&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="ahmetqunay" height=150 /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetqunay&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height=150 alt="ahmetqunay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetqunay&theme=dark&hide_border=false" alt="ahmetqunay" height=150 /></p>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmetqunay&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
 **ahmetqunay/ahmetqunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
