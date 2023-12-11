@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Ahmet. 
 
 
-- 🔭 I’m currently working with **Python and SQL.**
+- 🔭 I’m currently working with **Python and SQL**
 - 🌱 I’m currently learning **Data Engineering and Data Science**
 - 📫 How to reach me: **ahmet.gnay99@gmail.com**
 
