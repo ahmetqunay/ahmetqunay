@@ -17,12 +17,12 @@
 <a href="https://www.python.org/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.linux.org/" target="blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-<a href="https://cloud.google.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="30" height="30"/> </a>
-<a href="https://airflow.apache.org/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="postgresql" width="30" height="30"/> </a>
-<a href="https://www.docker.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
-<a href="https://kafka.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="30" height="30"/> </a>
-<a href="https://nifi.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_nifi/apache_nifi-icon.svg" alt="nifi" width="30" height="30"/> </a>
-<a href="https://spark.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="30" height="30"/> </a>
+<a href="https://cloud.google.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="30" height="30"/> </a>
+<a href="https://airflow.apache.org/" target="blank" rel=”noopener”> <img src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png" alt="postgresql" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
+<a href="https://kafka.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="30" height="30"/> </a>
+<a href="https://nifi.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="nifi" width="30" height="30"/> </a>
+<a href="https://spark.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
