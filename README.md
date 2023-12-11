@@ -1,8 +1,8 @@
 ### 👋 Hi! I'm Ahmet. 
 
 
-🔭 I’m currently working on **Python and SQL.**
-📫 How to reach me: **ahmet.gnay99@gmail.com**
+- 🔭 I’m currently working on **Python and SQL.**
+- 📫 How to reach me: **ahmet.gnay99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
