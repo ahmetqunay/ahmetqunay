@@ -1,4 +1,4 @@
-r### 👋 Hi! I'm Ahmet. 
+### 👋 Hi! I'm Ahmet. 
 
 
 - 🔭 I’m currently working on **Python and SQL.**
@@ -17,7 +17,7 @@ r### 👋 Hi! I'm Ahmet.
 <a href="https://www.python.org/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.linux.org/" target="blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-<a href="https://cloud.google.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" width="30" height="30"/> </a>
+<a href="https://cloud.google.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="30" height="30"/> </a>
 <a href="https://airflow.apache.org/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="postgresql" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-icon.svg" alt="docker" width="30" height="30"/> </a>
 <a href="https://kafka.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="30" height="30"/> </a>
