@@ -23,13 +23,15 @@
 <a href="https://kafka.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="30" height="30"/> </a>
 <a href="https://nifi.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_nifi/apache_nifi-icon.svg" alt="nifi" width="30" height="30"/> </a>
 <a href="https://spark.apache.org/" target="blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="30" height="30"/> </a>
+</p>
 
 <h3 align="left">Tools:</h3>
+<p align="left"> 
 <a href="https://code.visualstudio.com/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="30" height="30"/> </a>
-
 </p>
+
 <!--
 **ahmetqunay/ahmetqunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
